@@ -1,2 +1,2 @@
-# Program wyświetlajacy tekst w konsoli
-echo "Hello World"
+echo "Hello " $USER
+ls -lah ~ > lista_plikow.txt

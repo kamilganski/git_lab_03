@@ -1,0 +1,57 @@
+total 13M
+drwxr-xr-x 1 kamil 197609    0 sty 13 17:12 .
+drwxr-xr-x 1 kamil 197609    0 lis 20 11:14 ..
+drwxr-xr-x 1 kamil 197609    0 sie 15 14:20 .android
+-rw-r--r-- 1 kamil 197609 3,3K lis 18 22:41 .bash_history
+-rw-r--r-- 1 kamil 197609  209 sty 13 16:34 .gitconfig
+drwxr-xr-x 1 kamil 197609    0 lis 21 17:51 .gradle
+drwxr-xr-x 1 kamil 197609    0 maj 16  2018 .IdeaIC2018.1
+drwxr-xr-x 1 kamil 197609    0 lis 13 08:38 .IdeaIC2018.2
+drwxr-xr-x 1 kamil 197609    0 lis 21 18:50 .IdeaIC2018.3
+drwxr-xr-x 1 kamil 197609    0 lis 21 20:23 .IntelliJIdea2018.3
+-rw-r--r-- 1 kamil 197609   28 lis 19 09:05 .lesshst
+drwxr-xr-x 1 kamil 197609    0 lis 13 09:27 .m2
+drwxr-xr-x 1 kamil 197609    0 gru  1 15:31 .sonarlint
+drwxr-xr-x 1 kamil 197609    0 lis 21 21:22 .ssh
+-rw-r--r-- 1 kamil 197609  16K sty 13 17:12 .viminfo
+drwxr-xr-x 1 kamil 197609    0 gru 16 18:52 .VirtualBox
+drwxr-xr-x 1 kamil 197609    0 gru  6 08:03 3D Objects
+-rw-r--r-- 1 kamil 197609   15 sty 11 11:23 advanced_ip_scanner_Aliases.bin
+-rw-r--r-- 1 kamil 197609   15 sty 11 11:23 advanced_ip_scanner_Comments.bin
+-rw-r--r-- 1 kamil 197609  15K sty 11 11:23 advanced_ip_scanner_MAC.bin
+drwxr-xr-x 1 kamil 197609    0 paź  3 07:16 AppData
+drwxr-xr-x 1 kamil 197609    0 gru  6 08:03 Contacts
+lrwxrwxrwx 1 kamil 197609   58 paź  3 00:59 Cookies -> /c/Users/kamil/AppData/Local/Microsoft/Windows/INetCookies
+lrwxrwxrwx 1 kamil 197609   30 paź  3 00:59 Dane aplikacji -> /c/Users/kamil/AppData/Roaming
+drwxr-xr-x 1 kamil 197609    0 sty 12 16:36 Desktop
+drwxr-xr-x 1 kamil 197609    0 sty  5 20:20 Documents
+drwxr-xr-x 1 kamil 197609    0 sty 13 14:54 Downloads
+drwxr-xr-x 1 kamil 197609    0 gru  6 08:03 Favorites
+drwxr-xr-x 1 kamil 197609    0 maj 16  2018 IdeaProjects
+drwxr-xr-x 1 kamil 197609    0 kwi 20  2018 Intel
+drwxr-xr-x 1 kamil 197609    0 sty 12 22:16 IntelGraphicsProfiles
+drwxr-xr-x 1 kamil 197609    0 gru  6 08:03 Links
+lrwxrwxrwx 1 kamil 197609   59 paź  3 00:59 Menu Start -> /c/Users/kamil/AppData/Roaming/Microsoft/Windows/Start Menu
+drwxr-xr-x 1 kamil 197609    0 kwi 20  2018 MicrosoftEdgeBackups
+lrwxrwxrwx 1 kamil 197609   24 paź  3 00:59 Moje dokumenty -> /c/Users/kamil/Documents
+drwxr-xr-x 1 kamil 197609    0 gru  6 08:03 Music
+lrwxrwxrwx 1 kamil 197609   66 paź  3 00:59 NetHood -> /c/Users/kamil/AppData/Roaming/Microsoft/Windows/Network Shortcuts
+-rw-r--r-- 1 kamil 197609 8,0M sty 12 20:54 NTUSER.DAT
+-rw-r--r-- 1 kamil 197609 2,1M paź  3 00:59 ntuser.dat.LOG1
+-rw-r--r-- 1 kamil 197609 1,3M paź  3 00:59 ntuser.dat.LOG2
+-rw-r--r-- 1 kamil 197609  64K paź  3 00:59 NTUSER.DAT{1c3790b4-b8ad-11e8-aa21-e41d2d101530}.TM.blf
+-rw-r--r-- 1 kamil 197609 512K paź  3 00:59 NTUSER.DAT{1c3790b4-b8ad-11e8-aa21-e41d2d101530}.TMContainer00000000000000000001.regtrans-ms
+-rw-r--r-- 1 kamil 197609 512K paź  3 00:59 NTUSER.DAT{1c3790b4-b8ad-11e8-aa21-e41d2d101530}.TMContainer00000000000000000002.regtrans-ms
+-rw-r--r-- 1 kamil 197609   20 paź  3 06:23 ntuser.ini
+drwxr-xr-x 1 kamil 197609    0 gru 20 18:08 OneDrive
+drwxr-xr-x 1 kamil 197609    0 gru  6 08:03 Pictures
+lrwxrwxrwx 1 kamil 197609   66 paź  3 00:59 PrintHood -> /c/Users/kamil/AppData/Roaming/Microsoft/Windows/Printer Shortcuts
+lrwxrwxrwx 1 kamil 197609   55 paź  3 00:59 Recent -> /c/Users/kamil/AppData/Roaming/Microsoft/Windows/Recent
+drwxr-xr-x 1 kamil 197609    0 lut 14  2018 Roaming
+drwxr-xr-x 1 kamil 197609    0 gru  6 08:03 Saved Games
+drwxr-xr-x 1 kamil 197609    0 gru  6 08:03 Searches
+lrwxrwxrwx 1 kamil 197609   55 paź  3 00:59 SendTo -> /c/Users/kamil/AppData/Roaming/Microsoft/Windows/SendTo
+lrwxrwxrwx 1 kamil 197609   58 paź  3 00:59 Szablony -> /c/Users/kamil/AppData/Roaming/Microsoft/Windows/Templates
+lrwxrwxrwx 1 kamil 197609   28 paź  3 00:59 Ustawienia lokalne -> /c/Users/kamil/AppData/Local
+drwxr-xr-x 1 kamil 197609    0 gru  6 08:03 Videos
+drwxr-xr-x 1 kamil 197609    0 lis 21 19:18 VirtualBox VMs
